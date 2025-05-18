@@ -1,0 +1,43 @@
+# Binary files
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore user-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mac OS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Unreal-specific
+.vscode/
+.vs/
+*.opensdf
+*.sdf
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Optional: Ignore plugins and content you don't want in repo
+# Plugins/SomeHeavyPlugin/
+# Content/StarterContent/
